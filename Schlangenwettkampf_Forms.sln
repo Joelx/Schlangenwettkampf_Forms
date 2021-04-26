@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schlangenwettkampf_Forms", "Schlangenwettkampf_Forms\Schlangenwettkampf_Forms.csproj", "{6A9EB029-90D6-4906-9BDC-E0407A98B509}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A9EB029-90D6-4906-9BDC-E0407A98B509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A9EB029-90D6-4906-9BDC-E0407A98B509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A9EB029-90D6-4906-9BDC-E0407A98B509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A9EB029-90D6-4906-9BDC-E0407A98B509}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E96A4122-8E81-466B-BC75-A9FB824162FF}
+	EndGlobalSection
+EndGlobal
